@@ -1,0 +1,4 @@
+#Wed Feb 27 11:23:24 IST 2019
+base.0=C\:\\Users\\ndh00316\\Desktop\\cordova-training\\projects\\git-explorer\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
